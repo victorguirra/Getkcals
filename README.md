@@ -1,2 +1,2 @@
 # Getkcals
-Um medidor de calorias utilizando javascript
+Uma calculadora de calorias utilizando javascript
