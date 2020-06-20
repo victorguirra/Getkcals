@@ -47,3 +47,8 @@ Para ter acesso ao projeto, execute os seguintes comandos em seu terminal:
 ```bash
     $ code .
 ```
+--- 
+
+<h2 align="center">
+    💻 Desenvolvido por: Victor Hugo Guirra
+</h2>
